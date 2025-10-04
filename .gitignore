@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# Build artifacts
+*.exe
+*.o
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# IDE temp
+*.layout
+*.depend
+*.user
+Thumbs.db
+.DS_Store
